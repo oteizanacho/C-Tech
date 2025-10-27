@@ -1,0 +1,5 @@
+.env
+node_modules/
+# Archivos de build (para el futuro)
+dist/
+build/
