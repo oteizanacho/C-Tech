@@ -3,3 +3,9 @@ node_modules/
 # Archivos de build (para el futuro)
 dist/
 build/
+.vercel
+# Dependencias del Frontend
+/client/node_modules/
+
+# Archivos de build/producción
+/client/dist/
